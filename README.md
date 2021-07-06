@@ -57,5 +57,5 @@ go run build.go package   会根据你当前的系统环境打包成相应的二
 * yum install rpm-build -y
 
 ### 已经打包好的在dist目录下，可以直接拿去使用
-grafana_7.3.2-1625561924_amd64.deb  grafana-7.3.2-1625561924.linux-amd64.tar.gz  grafana-7.3.2-1625561924.x86_64.rpm
+grafana_7.3.2-1625561924_amd64.deb  grafana-7.3.2-1625561924.linux-amd64.tar.gz  grafana-7.3.2-1625561924.x86_64.rpm    
 二进制安装选择.tar.gz结尾的
